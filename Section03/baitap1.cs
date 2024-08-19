@@ -10,6 +10,10 @@ namespace section3
     {
         static void Main(string[] args)
         {
+            BT1();
+        }
+        static void BT1()
+        {
             
             Console.Write
                 ("Nhap nhiet do theo do C: ");
